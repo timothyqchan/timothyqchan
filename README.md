@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothy Chan</h1>
 <h3 align="center">A passionate frontend developer from New York!</h3>
 
-- 🔭 I’m currently working on a TripleTen Bootcamp Program [TripleTen](https://tripleten.com/)
+- 🔭 I’m currently working on a [TripleTen](https://tripleten.com/) Bootcamp Program 
 
 - 📫 How to reach me **timothyqchan@gmail.com**
 
